@@ -1,6 +1,6 @@
 package cn.qiuxiang.react.geolocation;
 
-import androidx.annotation.Nullable;
+import androidx.annotation.NonNull;
 import com.amap.api.location.AMapLocation;
 import com.amap.api.location.AMapLocationClient;
 import com.amap.api.location.AMapLocationClientOption;
